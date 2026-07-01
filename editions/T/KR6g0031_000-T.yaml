@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6g0031/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中陰經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0385.xml
+    old_id: T12n0385
+hash: sha256:91b29f7baf626ba3b7cd3e6445af531198b076dba8558cfb1e6a1344e9a8f8e4

@@ -1,0 +1,170 @@
+canonical_identifier: bkk:krp/KR6g0031/T/v1
+canonical_location: https://kanripo.org/bkk/KR6g0031/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 中陰經
+  identifiers:
+    krp: KR6g0031
+    cbeta: T12n0385
+    cbeta_old_id: T12n0385
+    authorityid: CA0004107
+    json_key: T0385
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0385.xml
+    old_id: T12n0385
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6g0031_000-T.yaml, hash: 'sha256:91b29f7baf626ba3b7cd3e6445af531198b076dba8558cfb1e6a1344e9a8f8e4'}
+  - {seq: 1, filename: KR6g0031_001-T.yaml, hash: 'sha256:cca153ae0a11cf5e2cde4a5c22f80f4397022ad3aff88703f17d6c8dada832e4'}
+  - {seq: 2, filename: KR6g0031_002-T.yaml, hash: 'sha256:d5c166577b2f25081bc7c4a882f171347a8b495e4715b98c550e474f468140e2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6g0031_000-T.markers.yaml, hash: 'sha256:abfba9782199d59c5a3abf2adb1447df1c55006aa155f4e32758f69318140239'}
+  - {seq: 1, role: markers, filename: assets/KR6g0031_001-T.markers.yaml, hash: 'sha256:709133a76d24b29422c9708e3e021cd8d5736f3543a9c583054d5ec6d5f67f97'}
+  - {seq: 2, role: markers, filename: assets/KR6g0031_002-T.markers.yaml, hash: 'sha256:fc7b8cf3d15b5671468c097eacda8989691651381313860afabb0426f2ba280c'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6g0031_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 6636
+  label: 中陰經卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0031_T_001-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 1 如來五弘誓入中陰教化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0031_T_001-mulu-2
+    span:
+    - body
+    - 2378
+    - 2378
+  label: 2 妙覺如來將諸菩薩入中陰教化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0031_T_001-mulu-3
+    span:
+    - body
+    - 3761
+    - 3761
+  label: 3 身品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0031_T_001-mulu-4
+    span:
+    - body
+    - 5416
+    - 5416
+  label: 4 賢護菩薩問事品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6g0031_T_001-mulu-5
+    span:
+    - body
+    - 5782
+    - 5782
+  label: 5 道樹品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0031_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 6501
+  label: 中陰經卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0031_T_002-mulu-1
+    span:
+    - body
+    - 10
+    - 10
+  label: 6 神足品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0031_T_002-mulu-2
+    span:
+    - body
+    - 896
+    - 896
+  label: 7 破愛網品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0031_T_002-mulu-3
+    span:
+    - body
+    - 1827
+    - 1827
+  label: 8 三世平等品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0031_T_002-mulu-4
+    span:
+    - body
+    - 4057
+    - 4057
+  label: 9 無生滅品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0031_T_002-mulu-5
+    span:
+    - body
+    - 5149
+    - 5149
+  label: 10 空無形教化品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0031_T_002-mulu-6
+    span:
+    - body
+    - 5826
+    - 5826
+  label: 11 有色無色品
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6g0031_T_002-mulu-7
+    span:
+    - body
+    - 6295
+    - 6295
+  label: 12 歡喜品
+  type: mulu
+  level: 1
+hash: sha256:fbf13e432ba4f1cd36c67a16673b6cc090b0dc0d8e55dbb0d9514272098c0557
